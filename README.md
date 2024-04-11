@@ -1,4 +1,9 @@
-# deep-learning-challenge
+# Predicting Charitable Donation Success through Deeo Learning Neural Network
+
+## Project Goal:
+
+The goal of this analysis was to create a binary classifier using a neural network to predict whether organizations receiving funding from Alphabet Soup would be successful. The dataset contained information about various organizations, including application type, affiliation, classification, use case, organization type, status, income classification, special considerations, funding amount requested, and whether the funding was successful.
+
 
 ### Initial observations from the 2 challenge files
 
