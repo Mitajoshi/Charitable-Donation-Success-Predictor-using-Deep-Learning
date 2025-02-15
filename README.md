@@ -1,4 +1,4 @@
-# Predicting Charitable Donation Success through Deeo Learning Neural Network
+# Predicting Charitable Donation Success through Deep Learning Neural Network
 
 ## Project Goal:
 
